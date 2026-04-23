@@ -1,0 +1,62 @@
+{
+  "clientes": [
+    {
+      "id_cliente": 1,
+      "nome": "Ana Luzia",
+      "cpf": "123.456.789-00",
+      "ativo": true,
+      "idade": 17,
+      "contato": {
+        "email": "ana@email.com",
+        "telefone": "11999999999"
+      },
+      "endereco": {
+        "rua": "Rua Alexandre",
+        "numero": 123,
+        "cidade": "Americana",
+        "estado": "SP",
+        "cep": "13465-000"
+      },
+      "preferencias": ["roupas", "acessorios", "cosmeticos"]
+    },
+    {
+      "id_cliente": 2,
+      "nome": "Alice Ortega",
+      "cpf": "987.654.321-00",
+      "ativo": false,
+      "idade": 18,
+      "contato": {
+        "email": "alice@email.com",
+        "telefone": "11988888888"
+      },
+      "endereco": {
+        "rua": "Av. Brasil",
+        "numero": 456,
+        "cidade": "Campinas",
+        "estado": "SP",
+        "cep": "13000-000"
+      },
+      "preferencias": ["roupas", "acessorios"]
+    },
+    {
+      "id_cliente": 2,
+      "nome": "Matheus Pascoal", 
+      "cpf": "987.654.321-00",
+      "ativo": false,
+      "idade": 18,
+      "contato": {
+        "email": "matheus@email.com",
+        "telefone": "11988888888"
+      },
+      "endereco": {
+        "rua": "Av. Iacanga",
+        "numero": 456,
+        "cidade": "Americana",
+        "estado": "SP",
+        "cep": "13099-000"
+      },
+      "preferencias": ["eletronicos", "games"]
+    }
+    
+  ]
+}

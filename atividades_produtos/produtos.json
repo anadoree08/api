@@ -1,0 +1,49 @@
+{
+  "produtos": [
+    {
+      "id_produto": 1,
+      "nome": "Vestido Curto Floral",
+      "categoria": "roupas",
+      "preco": 219.90,
+      "estoque": 100,
+      "ativo": true,
+      "peso_kg": 0.6,
+      "fragil": false,
+      "origem": {
+        "fornecedor": "Confecções Brasil",
+        "cidade": "São Paulo",
+        "estado": "SP"
+      }
+    },
+    {
+      "id_produto": 2,
+      "nome": "Perfume Floral",
+      "categoria": "cosmeticos",
+      "preco": 129.90,
+      "estoque": 50,
+      "ativo": true,
+      "peso_kg": 0.5,
+      "fragil": true,
+      "origem": {
+        "fornecedor": "Beleza Pura",
+        "cidade": "Campinas",
+        "estado": "SP"
+      }
+    },
+    {
+      "id_produto": 3,
+      "nome": "Fone de Ouvido Gamer",
+      "categoria": "eletronicos",
+      "preco": 299.90,
+      "estoque": 25,
+      "ativo": true,
+      "peso_kg": 0.8,
+      "fragil": true,
+      "origem": {
+        "fornecedor": "TechSound",
+        "cidade": "Curitiba",
+        "estado": "PR"
+      }
+    }
+  ]
+}
